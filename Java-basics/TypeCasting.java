@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class TypeCasting {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 //        float num = input.nextFloat();
 //        int num = input.nextInt();
@@ -43,5 +43,5 @@ class TypeCasting {
         System.out.println((f * b) + " " + (i / c) + " " + (d * s));
 
         System.out.println(result);
-    }
+        }
 }
